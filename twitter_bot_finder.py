@@ -3,10 +3,10 @@ import datetime
 import time
 
 # Access codes from Twitter
-consumerkey = '4LDFabiEVtB8scjFj5FYuXcSj'
-consumersecret = 'qpup7vNH7pZlMD4FF7B3DswXGUSWJuSNGynbmGxGzIrIEd8WUR'
-accesstoken = '1052290290407497728-6Qqjp4gg5lBTyKgr2uGCQGtfyKpseU'
-accesstokensecret = 'XD7vE67ORynhxZMedPYBTUiSI5KZNIYmyBPe1Jsr0MpCF'
+consumerkey = ''
+consumersecret = ''
+accesstoken = ''
+accesstokensecret = ''
 
 # Create API handle
 auth = tweepy.OAuthHandler(consumerkey, consumersecret)
