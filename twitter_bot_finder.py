@@ -1,12 +1,3 @@
-'''
-Name : Hugo Ruiz Villar & lanxiang Yang
-NetID: hruizvil & lanxiany
-IDs #: 66212078 & 63972549
-
-    This program obtains access codes from twitter, creates
-    the API handle and then proceeds to logicically find up
-    to 40 follow-bots for any given twitter account. 
-'''
 import tweepy
 import datetime
 import time
